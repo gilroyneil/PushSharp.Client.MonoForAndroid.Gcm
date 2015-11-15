@@ -1,0 +1,8 @@
+/Volumes/Drobo5D/Dropbox/Projects/PushSharp.Client.MonoForAndroid.Gcm/obj/Release/MonoAndroid,Version=v2.2.AssemblyAttribute.cs
+/Volumes/Drobo5D/Dropbox/Projects/PushSharp.Client.MonoForAndroid.Gcm/bin/Release/PushSharp.Client.MonoForAndroid.dll
+/Volumes/Drobo5D/Dropbox/Projects/PushSharp.Client.MonoForAndroid.Gcm/bin/Release/PushSharp.Client.MonoForAndroid.apk
+/Volumes/Drobo5D/Dropbox/Projects/PushSharp.Client.MonoForAndroid.Gcm/obj/Release/android/bin/PushSharp.Client.MonoForAndroid.apk
+/Volumes/Drobo5D/Dropbox/Projects/PushSharp.Client.MonoForAndroid.Gcm/obj/Release/R.cs.flag
+/Volumes/Drobo5D/Dropbox/Projects/PushSharp.Client.MonoForAndroid.Gcm/bin/Release/PushSharp.Client.MonoForAndroid-Signed.apk
+/Volumes/Drobo5D/Dropbox/Projects/PushSharp.Client.MonoForAndroid.Gcm/obj/Release/uploadflags.txt
+/Volumes/Drobo5D/Dropbox/Projects/PushSharp.Client.MonoForAndroid.Gcm/obj/Release/PushSharp.Client.MonoForAndroid.dll

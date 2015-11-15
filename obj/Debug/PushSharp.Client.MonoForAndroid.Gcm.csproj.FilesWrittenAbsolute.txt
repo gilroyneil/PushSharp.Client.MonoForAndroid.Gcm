@@ -1,0 +1,11 @@
+/Users/Neil/Documents/Projects/PushSharp.Client.MonoForAndroid.Gcm/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/Neil/Documents/Projects/PushSharp.Client.MonoForAndroid.Gcm/obj/Debug/PushSharp.Client.MonoForAndroid.obj.Debug.__AndroidLibraryProjects__.zip
+/Users/Neil/Documents/Projects/PushSharp.Client.MonoForAndroid.Gcm/bin/Debug/PushSharp.Client.MonoForAndroid.dll.mdb
+/Users/Neil/Documents/Projects/PushSharp.Client.MonoForAndroid.Gcm/bin/Debug/PushSharp.Client.MonoForAndroid.dll
+/Users/Neil/Documents/Projects/PushSharp.Client.MonoForAndroid.Gcm/bin/Debug/PushSharp.Client.MonoForAndroid.apk
+/Users/Neil/Documents/Projects/PushSharp.Client.MonoForAndroid.Gcm/obj/Debug/android/bin/PushSharp.Client.MonoForAndroid.apk
+/Users/Neil/Documents/Projects/PushSharp.Client.MonoForAndroid.Gcm/obj/Debug/R.cs.flag
+/Users/Neil/Documents/Projects/PushSharp.Client.MonoForAndroid.Gcm/bin/Debug/PushSharp.Client.MonoForAndroid-Signed.apk
+/Users/Neil/Documents/Projects/PushSharp.Client.MonoForAndroid.Gcm/obj/Debug/uploadflags.txt
+/Users/Neil/Documents/Projects/PushSharp.Client.MonoForAndroid.Gcm/obj/Debug/PushSharp.Client.MonoForAndroid.dll
+/Users/Neil/Documents/Projects/PushSharp.Client.MonoForAndroid.Gcm/obj/Debug/PushSharp.Client.MonoForAndroid.dll.mdb
